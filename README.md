@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Ondrej, a software engineer from Czechia. I am passionate about machine learning, developing desktop apps, and working on open-source libraries.
+I'm Ondrej, a software engineer from Czechia. I am passionate about machine learning, app development, and working on open-source libraries.
 
 Most of my open-source work is focused on bioinformatics and computational biology as part of @ [Sybila](https://sybila.fi.muni.cz/).
 
